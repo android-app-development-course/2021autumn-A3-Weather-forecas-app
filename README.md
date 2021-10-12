@@ -1,4 +1,4 @@
-# 2021autumn-A3-Weather-forecas-app
+# 2021autumn-A3-Weather-forecast-app
 安卓移动应用开发
 
 天气预报app
