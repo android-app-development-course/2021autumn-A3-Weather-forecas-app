@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/refreshCovidPage"
+        android:title="@string/refreshPage"
+        android:icon="@drawable/baseline_refresh_black_24dp"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/openInBrowser"
+        android:title="@string/openPageInBRowser"
+        android:icon="@drawable/baseline_computer_black_24dp"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/clearHistoryMe"
+        android:title="@string/clearPageCache"
+        android:icon="@drawable/baseline_delete_black_24dp"
+        app:showAsAction="never"/>
+</menu>

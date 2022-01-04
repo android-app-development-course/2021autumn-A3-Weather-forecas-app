@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">GoodWeather</string>
+
+    <!--  confirm  -->
+    <string name="ok">OK</string>
+
+    <!--  places  -->
+    <string name="search_hint">Input the city you want to search for weather…</string>
+    <string name="search_blank_intro">SORRY! There is nothing here.</string>
+    <string name="refresh">Refresh</string>
+
+    <!--  hourly  -->
+    <string name="hourly_data">Hourly data</string>
+
+    <!--  Forecast  -->
+    <string name="forecast_info">Forecast</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="day_after_tomorrow">Day after tomorrow</string>
+    <string name="day_2after_tomorrow">3 days later</string>
+    <string name="day_3after_tomorrow">4 days later</string>
+
+    <string name="max_temp">Max</string>
+    <string name="min_temp">Min</string>
+
+    <string name="springSeason">Spring</string>
+    <string name="summerSeason">Summer</string>
+    <string name="autumnSeason">Autumn</string>
+    <string name="winterSeason">Winter</string>
+
+    <!-- Life Index   -->
+    <string name="lifeIndex">Life Index</string>
+    <string name="coldRisk">Cold</string>
+    <string name="wear">Wear</string>
+    <string name="ultraviolet">Ultraviolet</string>
+    <string name="carWashing">Washing Car</string>
+    
+    <!--  Air description  -->
+    <string name="aircast_info">Air Quality</string>
+    <string name="pm25">PM 2.5：</string>
+    <string name="pm10">PM 10：</string>
+    <string name="o3">O3：</string>
+    <string name="no2">NO2：</string>
+    <string name="so2">SO2：</string>
+    <string name="co">CO：</string>
+
+    <!--  wind  -->
+    <string name="wind_info">Wind</string>
+
+    <!--  menu  -->
+    <string name="settingsIcon">Settings</string>
+    <string name="aboutIcon">About</string>
+    <string name="shareIcon">Share me</string>
+    <string name="exitIcon">exit</string>
+
+    <!--  weather  -->
+    <string name="airIndex">Air Index</string>
+    <string name="clear_day">clear day</string>
+    <string name="cloudy">partly cloudy</string>
+    <string name="overcast">overcast</string>
+
+    <string name="mild_haze">mild haze</string>
+    <string name="moderate_haze">moderate haze</string>
+    <string name="severe_haze">severe haze</string>
+
+    <string name="light_rain">light rain</string>
+    <string name="moderate_rain">moderate rain</string>
+    <string name="heavy_rain">heavy rain</string>
+    <string name="storm_rain">storm rain</string>
+
+    <string name="fog">fog</string>
+
+    <string name="light_snow">light snow</string>
+    <string name="moderate_snow">moderate snow</string>
+    <string name="heavy_snow">heavy snow</string>
+    <string name="storm_snow">storm snow</string>
+
+    <string name="dust">dust</string>
+    <string name="wind">wind</string>
+
+    <string name="thunder_shower">thunder shower</string>
+    <string name="sleet">sleet</string>
+    <string name="hail">hail</string>
+
+    <string name="COVID19_shortcut">COVID19</string>
+
+    <!--  Webview About  -->
+    <string name="refreshPage">Refresh</string>
+    <string name="openPageInBRowser">Open in browser</string>
+    <string name="clearPageCache">Clear cache</string>
+    <string name="wordsToSay">Words to say</string>
+    <string name="finalTextLine1">首先感谢《第一行代码》和它的作者郭霖老师。作为我学习Android开发的第一本入门
+        书，它教会了我很多知识。</string>
+    <string name="finalTextLine2">感谢我的朋友们对这个 APP 的 UI 设计提供的诸多意见，虽然我未能将所有要求全部满足，但你们的支持给了我很多力量。</string>
+    <string name="finalTextLine3">好天气这个aqq仍有很多不足之处，在结课后我们小组仍然会继续完善这个项目。</string>
+    <string name="finalTextLine4">android开发是一个很有意思的工作，把自己的想法实现并应用到app中很有成就感！移动应用开发这门课带我认识了android，在未来的学习中我也会继续深入学习这个技术。</string>
+
+
+    <!--  introduction of weather information producer  -->
+    <string name="caiyun">The weather data is from caiyunapp.com</string>
+    <string name="know">know</string>
+
+    <!--  About Page  -->
+    <string name="APPIntroductionAbout">Goodweather</string>
+
+    <string name="email_not_found">Sorry, e-mail application not found</string>
+    <string name="cut_screen">Please cut screen</string>
+
+    <string name="sex_pic">I am a sexy picture</string>
+    <string name="no_egg">Do not click, no eggs in</string>
+
+    <!--  open source  -->
+    <string name="apache_2">Apache-2.0 License</string>
+    <string name="mit">MIT License</string>
+
+    <string name="feedback">Update and Feedback</string>
+    <string name="emailFeedback">Email me</string>
+    <string name="githubFeedback">Post Issues on GitHub</string>
+
+    <string name="donation">Donation</string>
+    <string name="aliPay">AliPay</string>
+    <string name="wechatPay">Wechat Pay</string>
+
+    <string name="Source_of_icons">Source of icons</string>
+
+    <string name="source_of_weather">Source of weather information</string>
+
+    <string name="opensourceThanks">Open source Thanks</string>
+
+    <!--  settings  -->
+    <string name="settingsInfo">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="updateFeedback">Get the newest version from browser</string>
+    <string name="nowVersionFeedback">Update log</string>
+    <string name="coolapk_contact">apk</string>
+    <string name="adpay">Watch AD</string>
+    <string name="things_to_say">More</string>
+    <string name="blog_contact">My blog</string>
+    <string name="marketFeedback">Coolapk Page</string>
+    <string name="egg_title">Surprise</string>
+</resources>

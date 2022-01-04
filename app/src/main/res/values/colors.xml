@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- My Own Colors from materialize  -->
+    <color name="grey_darken_3">#424242</color>
+    <color name="grey_darken_2">#616161</color>
+    <color name="grey_darken_1">#757575</color>
+
+    <color name="brown_darken_1">#6d4c41</color>
+    <color name="brown_darken_2">#5d4037</color>
+    <color name="brown_darken_3">#4d342e</color>
+
+    <!--  12.18 后更新的配色  -->
+    <color name="orange200">#ffcc80</color>
+    <color name="orange400">#ffa726</color>
+    <color name="orange500">#ff9800</color>
+    <color name="orange600">#fb8c00</color>
+    <color name="orange700">#f57c00</color>
+
+    <color name="yellow400">#ffee58</color>
+    <color name="yellow500">#ffeb3b</color>
+    <color name="yellow600">#fdd835</color>
+    <color name="yellow700">#fbc02d</color>
+
+    <color name="blue200">#90caf9</color>
+    <color name="blue500">#2196f3</color>
+    <color name="blue700">#1976d2</color>
+
+    <color name="brown200">#bcaaa4</color>
+    <color name="brown500">#795548</color>
+    <color name="brown700">#5d4037</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+
+    <color name="indigo200">#80DEEA</color>
+    <color name="indigo500">#00bcd4</color>
+    <color name="indigo700">#0097a1</color>
+
+    <color name="grey50">#fafafa</color>
+</resources>

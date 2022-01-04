@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/COVIDExplorer"
+        android:title="COVID"
+        android:icon="@drawable/baseline_error_outline_white_24dp"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/settingsIcon"
+        android:title="@string/settingsIcon"
+        android:icon="@drawable/baseline_settings_black_24dp"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/aboutIcon"
+        android:title="@string/aboutIcon"
+        app:showAsAction="never"
+        android:icon="@drawable/baseline_sentiment_satisfied_alt_black_24dp"/>
+    <item
+        android:id="@+id/shareIcon"
+        android:title="@string/shareIcon"
+        app:showAsAction="never"
+        android:icon="@drawable/baseline_share_black_24dp"/>
+    <item
+        android:id="@+id/exitIcon"
+        android:title="@string/exitIcon"
+        app:showAsAction="never"
+        android:icon="@drawable/baseline_power_settings_new_black_24dp"/>
+</menu>

@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">好天气</string>
+
+    <!--  confirm  -->
+    <string name="ok">我知道了</string>
+
+    <!--  places  -->
+    <string name="search_hint">输入你想要查询天气的城市</string>
+    <string name="search_blank_intro">这里空空如也</string>
+    <string name="refresh">刷新</string>
+
+    <!--  hourly  -->
+    <string name="hourly_data">小时数据</string>
+
+    <!--  Forecast  -->
+    <string name="forecast_info">预报</string>
+    <string name="today">今天</string>
+    <string name="tomorrow">明天</string>
+    <string name="day_after_tomorrow">后天</string>
+    <string name="day_2after_tomorrow">大后天</string>
+    <string name="day_3after_tomorrow">四天后</string>
+
+    <string name="max_temp">最高</string>
+    <string name="min_temp">最低</string>
+
+    <string name="springSeason">春</string>
+    <string name="summerSeason">夏</string>
+    <string name="autumnSeason">秋</string>
+    <string name="winterSeason">冬</string>
+
+    <!-- Life Index   -->
+    <string name="lifeIndex">生活指数</string>
+    <string name="coldRisk">感冒</string>
+    <string name="wear">穿衣</string>
+    <string name="ultraviolet">实时紫外线</string>
+    <string name="carWashing">洗车</string>
+
+    <!--  Air description  -->
+    <string name="aircast_info">空气指数</string>
+    <string name="pm25">PM 2.5：</string>
+    <string name="pm10">PM 10：</string>
+    <string name="o3">臭氧：</string>
+    <string name="no2">二氧化氮：</string>
+    <string name="so2">二氧化硫：</string>
+    <string name="co">一氧化碳：</string>
+
+    <!--  wind  -->
+    <string name="wind_info">风力和风向</string>
+
+    <!--  menu  -->
+    <string name="settingsIcon">设置</string>
+    <string name="aboutIcon">关于</string>
+    <string name="shareIcon">分享APP</string>
+    <string name="exitIcon">退出</string>
+    <string name="know">我知道了</string>
+
+    <!--  weather  -->
+    <string name="airIndex">空气指数</string>
+    <string name="clear_day">晴</string>
+    <string name="cloudy">多云</string>
+    <string name="overcast">阴</string>
+
+    <string name="mild_haze">轻度雾霾</string>
+    <string name="moderate_haze">中度雾霾</string>
+    <string name="severe_haze">重度雾霾</string>
+
+    <string name="light_rain">小雨</string>
+    <string name="moderate_rain">中雨</string>
+    <string name="heavy_rain">大雨</string>
+    <string name="storm_rain">暴雨</string>
+
+    <string name="fog">雾</string>
+
+    <string name="light_snow">小雪</string>
+    <string name="moderate_snow">中雪</string>
+    <string name="heavy_snow">大雪</string>
+    <string name="storm_snow">暴雪</string>
+
+    <string name="dust">浮尘</string>
+    <string name="wind">大风</string>
+
+    <string name="thunder_shower">雷阵雨</string>
+    <string name="sleet">雨夹雪</string>
+    <string name="hail">冰雹</string>
+
+    <!-- COVID 19 Special   -->
+    <string name="COVID19_shortcut">COVID19</string>
+
+    <!--  Webview About  -->
+    <string name="refreshPage">刷新</string>
+    <string name="openPageInBRowser">在浏览器打开</string>
+    <string name="clearPageCache">清理缓存</string>
+
+    <!--  introduction of weather information producer  -->
+    <string name="caiyun">天气数据由彩云天气提供</string>
+
+    <!--  About Page  -->
+    <string name="APPIntroductionAbout">好天气：一个 Android 天气预报 APP</string>
+
+    <string name="email_not_found">很抱歉，在您的手机上没有找到能发送电子邮件的应用</string>
+    <string name="cut_screen">请截图扫描</string>
+
+    <string name="egg_title">彩蛋</string>
+    <string name="sex_pic">我是一份涩图</string>
+    <string name="no_egg">别点了，没有彩蛋的</string>
+    <string name="wordsToSay">想说的话</string>
+    <string name="finalTextLine1">首先感谢《第一行代码》和它的作者郭霖老师。作为我学习Android开发的第一本入门书，它教会了我很多知识。我的 APP 主要代码也来自书中的项目。</string>
+    <string name="finalTextLine2">感谢我的朋友们对这个 APP 的 UI 设计提供的诸多意见，虽然我未能将所有要求全部满足，但你们的支持给了我很多力量。</string>
+    <string name="finalTextLine3">好天气这个app仍有很多不足之处，在结课后我们小组仍然会继续完善这个项目。</string>
+    <string name="finalTextLine4">android开发是一个很有意思的工作，把自己的想法实现并应用到app中很有成就感！移动应用开发这门课带我认识了android，在未来的学习中我也会继续深入学习这个技术。</string>
+
+    <!--  open source  -->
+    <string name="apache_2">Apache-2.0 License</string>
+    <string name="mit">MIT License</string>
+
+    <string name="feedback">更新与反馈</string>
+    <string name="emailFeedback">发邮件反馈</string>
+    <string name="githubFeedback">在 GitHub 上提 Issues</string>
+    <string name="updateFeedback">从浏览器获取最新版本</string>
+    <string name="nowVersionFeedback">当前版本更新日志</string>
+    <string name="marketFeedback">访问主页</string>
+
+    <string name="donation">捐赠</string>
+    <string name="aliPay">支付宝</string>
+    <string name="wechatPay">微信支付</string>
+    <string name="adpay">看广告支持下</string>
+
+    <string name="Source_of_icons">图标来源</string>
+
+    <string name="source_of_weather">天气数据来源</string>
+
+    <string name="opensourceThanks">感谢</string>
+
+    <string name="coolapk_contact">联系我</string>
+    <string name="blog_contact">访问我的github</string>
+    <string name="things_to_say">想说的话</string>
+
+    <!--  settings  -->
+    <string name="settingsInfo">设置</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

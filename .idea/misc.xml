@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/drawable/baseline_beach_access_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/drawable/baseline_menu_book_black_24dp.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/drawable/baseline_menu_book_white_24dp.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/drawable/baseline_nature_people_black_24dp.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/drawable/ic_wechat_black.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/drawable/progressbar_hint1.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/drawable/progressbar_hint_shape1.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/activity_air.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/activity_covid_special.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/activity_dailyinfor.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/air.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/fragment_place.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/item_air_dirties.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/item_daily_day.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/life_index.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/minutely_rain.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/now.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/layout/place_item.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/menu/about_menu.xml" value="0.175" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/menu/covidtoolbar_menu.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/menu/toolbar_menu.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/Goodweather/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/drawable/baseline_account_circle_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/drawable/baseline_account_circle_white_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/drawable/baseline_arrow_back_white_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/drawable/baseline_attach_money_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/drawable/baseline_attach_money_white_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/layout/activity_about.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/layout/activity_air.xml" value="0.2975391498881432" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/layout/activity_covid_special.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/layout/activity_dailyinfor.xml" value="0.9032258064516129" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/layout/air.xml" value="0.1" />
+        <entry key="..\:/Users/lyt0828/Desktop/SunRain-master/app/src/main/res/xml/pref_settings.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>
